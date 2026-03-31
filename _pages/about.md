@@ -20,7 +20,7 @@ I am an academic at the [University](https//www.universitywebsite.com). I'm curr
 - **Interest 2.**
 - **Interest 3.**
 
-If you’d like to chat, feel free to reach out via <a href="name.surname@university.edu">email</a>
+If you’d like to chat, feel free to reach out via <a href="mailto:name.surname@university.edu">name.surname@university.edu</a>
 
 ## Talks
 

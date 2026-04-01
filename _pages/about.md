@@ -3,13 +3,13 @@ layout: about
 title: About
 permalink: /
 social: true
+math: true
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:name.surname@university.edu">name.surname@university.edu</a></p>
-social: true # includes social icons at the bottom of the page
 ---
 
 I am an academic at the [University](https//www.universitywebsite.com). I'm currently in the process of building by website. 
